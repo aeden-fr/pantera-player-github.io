@@ -9,7 +9,7 @@
 
 	}
 	section {
-		background-color: rgb(58, 58, 58);
+		background-color: rgb(255, 0, 0);
 		width: 100%;
 		margin-left: auto;
 		margin-right: auto;
@@ -33,7 +33,7 @@
 		flex: 1;
 	}
 	section { 
-	background-color: rgb(58, 58, 58);
+	background-color: rgb(0, 0, 0);
 	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
@@ -52,19 +52,19 @@ body {
 	font-family: 'Roboto Slab', serif;
 	margin: 0;
 	padding: 0;
-	background-color: rgb(58, 58, 58);
+	background-color: rgb(255, 0, 0);
 }
 
 h1 {
 	font-size: 3rem;
-	color: rgb(58, 58, 58);
+	color: rgb(255, 0, 0);
 	display: block;
 	text-align: center;
 }
 
 h2,h3,h4 {
 	font-size: 1.9rem;
-	color: rgb(114, 0, 0);
+	color: rgb(255, 0, 0);
 	display: block;
 	text-align: left;
 	padding-left: 25%;
@@ -74,7 +74,7 @@ h2,h3,h4 {
 
 p {
 	font-size: 1.4em;
-	color: rgb(114, 0, 0);
+	color: rgb(255, 0, 0);
 	padding: 10px 40px 10px 40px;
 }
 
@@ -100,7 +100,7 @@ img {
 
 
 header {
-	background-color: #650a0a;
+	background-color: #000000;
 	margin-top: 0;
 	margin-bottom: 0;
 	padding-top: 20px;
@@ -108,15 +108,15 @@ header {
 }
 
 .bg1 {
-	background-color: #3e3e3e;
+	background-color: #000000;
 }
 
 .bg2 {
-	background-color: #3e3e3e;
+	background-color: #000000;
 }
 
 .bg3 {
-	background-color: #3e3e3e;
+	background-color: #000000;
 }
 
 iframe {
@@ -128,13 +128,13 @@ iframe {
 
 footer {
 	height: 100px;
-	background-color: #001bff;
+	background-color: #000000;
 }
 
 #complete {
-	background-color: green;
+	background-color: rgb(0, 0, 0);
 }
 
 #incomplete {
-	background-color: red;
+	background-color: rgb(0, 0, 0);
 }
